@@ -1,3 +1,4 @@
-primeiro= int(input("escreva um numero:"))
-seguint(input("escreva outro numero :"))
-print(primeiro+segundo)
+a= int(input ("digite um numero"))
+b= int(input ("digite outro numero"))
+c= a+b 
+print(c)
